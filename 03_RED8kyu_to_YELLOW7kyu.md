@@ -1,5 +1,5 @@
 
-# Orange belt (8th Kyu)		---->			Red belt (7th Kyu)
+# Red belt (8th Kyu)		---->			Yellow belt (7th Kyu)
 
 everything from previous grades plus the following...
 
@@ -23,7 +23,7 @@ Heian Nidan
 
 **combination**
 - block then reverse punch x 3 times (forwards / backwards / after turning)
-  - Age Uke/ Gyaku Tsuki x 3
+  - Age Uke / Gyaku Tsuki x 3
   - Soto Uke / Gyaku Tsuki x 3
   - Uchi Uke / Gyaku Tsuki x 3
 

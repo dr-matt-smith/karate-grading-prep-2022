@@ -1,5 +1,5 @@
 
-# Orange belt (9th Kyu)		---->			Orange belt (8th Kyu)
+# Orange belt (9th Kyu)		---->			Red belt (8th Kyu)
 
 everything from previous grades plus the following...
 
