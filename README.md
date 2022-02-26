@@ -23,7 +23,7 @@ Here are what I think are the 10 most useful karate terms to know when starting 
 - **Yoi** - ready
   - (yoy – where the ‘oy’ is as in ‘boy’)
 
-- **Hajiim** - start
+- **Hajime** - start
   - (ha-jimmy)
 
 - **Mawate** - turn
