@@ -9,10 +9,6 @@ Heian Sandan
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
-**Jodan Age Uke followed by Gyaku Tsuki (both in Zenkutsu Dachi)**
-- rising block
-- followed by reverse punch (counter attack) both in front stance
-
 **Chudan Soto Uke in Zenkutsu Dachi followed by (Yoko) Empi Uchi in Kiba Dachi**
 - outside block in front stance
 - followed by (side) elbow strike in horse-riding stance
@@ -22,6 +18,9 @@ Heian Sandan
 - followed by reverse punch (counter attack)
 
 
+**Tsuki combinations** 1 step with 2 punches
+- step into front stance with a Jodan (high) Oi Tsuki (lunge punch)
+  - then a quick Chudan (middle) Gyaku Tsuki (reverse punch)
 
 
 ## KUMITE (sparring)

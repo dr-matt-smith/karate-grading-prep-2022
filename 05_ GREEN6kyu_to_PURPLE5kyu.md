@@ -9,9 +9,14 @@ Heian Yondan
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
-**Chudan Uchi Uke in Zenkutsu Dachi followed by Kizami Tsuki**
-- inside block in front stance
-- followed by jabbing punch (same arm that just blocked)
+**Age Uke / Gyaku Tsuki / Gedan Barai (in Zenkutsu Dachi)**
+- rising block / reverse punch / low block (in front stance)
+
+**Soto Uke / (Yoko) Empi Uchi  / (Yoko) Uracken Uchi (in Zenkutsu Dachi)**
+- outside block / (back) elbow strike / (side) back fist (in front stance)
+
+**Uchi Uke / Kizami Tsuki / Gedan Barai (in Zenkutsu Dachi)**
+- inside block / jabbing punch (same arm that just blocked) / low block (in front stance)
 
 **Yoko Geri Kekomi – from Zenkutsu Dachi**
 - side thrust kick
@@ -19,7 +24,11 @@ Heian Yondan
 - from front stance (and landing in front stance)
 - quick step & quick kick
   - but hold out kick for a fraction of a second, before snapping back
-    
+  
+**Tsuki combinations** 1 step with 3 punches
+- step into front stance with a Jodan (high) Oi Tsuki (lunge punch)
+  - then 2 x quick Chudan (middle) Gyaku Tsuki (reverse punch)
+  - timing is: 1, 1 2 (so slight pause after the first punch)
 
 ## KUMITE (sparring)
 
