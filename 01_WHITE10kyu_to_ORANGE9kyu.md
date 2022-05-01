@@ -22,7 +22,7 @@ Kihon Kata
 **Oi Tsuki in Zenkutsu Dachi**
   - Lunge (stepping) punch in front stance
     - Jodan = High – your chin 
-    - Chudan =  Middle your chest
+    - Chudan =  Middle - your chest
 
 **Age Uke**
   - high block – High (Jodan)
