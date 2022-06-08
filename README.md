@@ -6,6 +6,10 @@ I hope they are useful - and let me know any corrections / suggestions ...
 
 .. matt smith ..
 
+see also the syllabus pages on the following websites:
+- [http://uskfi.org/GradingSyllabus/tabid/132/Default.aspx](http://uskfi.org/GradingSyllabus/tabid/132/Default.aspx)
+- [https://lucankarate.com/grading/](https://lucankarate.com/grading/)
+
 p.s.
 Here are what I think are the 10 most useful karate terms to know when starting Shotokan:
 
