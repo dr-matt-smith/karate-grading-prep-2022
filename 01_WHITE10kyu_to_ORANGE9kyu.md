@@ -9,7 +9,7 @@ Kihon Kata
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
 **Yoi (Heiko Dachi)**
-- Ready (parallel stance) – with fists out in front of your belt
+- Ready (parallel stance) – with fists out in front of your belt - feet shoulder width apart - feet parrallel and facing forwards
 
 **Step forward / backwards into**
   - Gedan Barai in Zenkutsu Dachi with Kiai
