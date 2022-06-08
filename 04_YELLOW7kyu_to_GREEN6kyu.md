@@ -32,6 +32,7 @@ Heian Sandan
 
 ## KUMITE (sparring)
 
+**Kihon ippon kumite**
 NOTE- this is different from earlier grades - after each technique the defender steps back into yoy (it is NOT a sequence of 3 steps forward/back etc.)
 
 **Right leg**
