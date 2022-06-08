@@ -9,16 +9,16 @@ Heian Yondan
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
-**Age Uke / Gyaku Tsuki / Gedan Barai (in Zenkutsu Dachi)**
+**Age Uke / Gyaku Tsuki / Gedan Barai (Zenkutsu Dachi)**
 - rising block / reverse punch / low block (in front stance)
 
-**Soto Uke (in Zenkutsu Dachi) / (Yoko) Empi Uchi in Kiba Dachi) / (Yoko) Uracken Uchi**
-- outside block (in front stance) / (back) elbow strike (in horse riding stance) / (side) back fist 
+**Soto Uke (Zenkutsu Dachi) / (Yoko) Empi Uchi (Kiba Dachi) / (Yoko) Uracken Uchi**
+- outside block (in front stance) / (back) elbow strike (moving front leg into horse riding stance) / (side) back fist 
 
-**Uchi Uke / Kizami Tsuki / Gedan Barai (in Zenkutsu Dachi)**
+**Uchi Uke / Kizami Tsuki / Gedan Barai (Zenkutsu Dachi)**
 - inside block / jabbing punch (same arm that just blocked) / low block (in front stance)
 
-**Shuto Uke (in Kokutso Dachi) / Nukite (in Zenkutsu Dachi)**
+**Shuto Uke (Kokutso Dachi) / Nukite (Zenkutsu Dachi)**
 - knife hand block (in back stance) / fingertip strike (moving front leg into front stance)
 
 
