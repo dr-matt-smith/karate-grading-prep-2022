@@ -34,7 +34,7 @@ Kihon Kata
   - front snap kick (knee nice and high, then snap foot out and back quickly – striking with ball of foot)
     - Middle (Chudan) your chest height
     - High (Jodan) your chin hieight
-  - kick is from Zenkutsu Dachi (front stance) with hands/fists to the side
+  - kick is from Zenkutsu Dachi (front stance) with hands/fists to the side (arms/hands do NOT move when kicking)
 
 ## KUMITE (sparring)
 
