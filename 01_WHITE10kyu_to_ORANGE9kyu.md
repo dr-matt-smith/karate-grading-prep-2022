@@ -50,6 +50,6 @@ Kihon Kata
 - Defender
   - Stepping back and block 3 times with Age Uke Jodan (high block)
     - First step is right leg back (always same as attackers first leg forward)
-  - after 3rd block, counter accack with Gyaku Tsuki (reverse punch)
+  - after 3rd block, counter accack with Gyaku Tsuki (reverse punch) (with kiai!)
 
 
