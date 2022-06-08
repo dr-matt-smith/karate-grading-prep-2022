@@ -31,9 +31,9 @@ Kihon Kata
   - outside (forearm) block – Middle (Chudan)
 
 **Mae Geri**
-  - front snap kick (snap out and back quickly – strike with ball of foot)
-    - Middle (Chudan) your chest
-    - High (Jodan) your chin 
+  - front snap kick (knee nice and high, then snap foot out and back quickly – striking with ball of foot)
+    - Middle (Chudan) your chest height
+    - High (Jodan) your chin hieight
   - kick is from Zenkutsu Dachi (front stance) with hands/fists to the side
 
 ## KUMITE (sparring)
