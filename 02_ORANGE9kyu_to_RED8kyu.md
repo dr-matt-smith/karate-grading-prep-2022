@@ -13,23 +13,22 @@ Heian Shodan
 - inside (forearm) block in front stance
   - Middle (Chudan)
 
-**Shuto Uke in Kukuso Dachi**
+**Shuto Uke in Kukuso Dachi** 
 - Knifehand block in back Stance
 
-**Yoko Geri Keage – from Kiba Dachi**
+**Yoko Geri Keage – from Kiba Dachi** (pronounced "key - ag - eee")
 - side snap kick
-  - (foot snaps out and back – hips/standing foot not move = speed)
+  - (foot snaps out and back – hips/standing foot not move = speed) - do NOT hold out foot at the strike point, snap it back immediately
 - from Kiba Dachi (horse-riding stance)
   - stepping leg in front of leg about to kick
 - quick step & quick kick
 
-**Yoko Geri Kekomi – from Kiba Dachi**
+**Yoko Geri Kekomi – from Kiba Dachi** (pronounced "ker - comb - eee")
 - side thrust kick
-  - (pivot foot on ground & thrust with hip = power)
+  - (pivot foot on ground & thrust with hip = power)  hold out kick for a fraction of a second at the strike point, before snapping back
 - from Kiba Dachi (horse-riding stance)
   - stepping leg in front of leg about to kick
 - quick step & quick kick
-  - but hold out kick for a fraction of a second, before snapping back
 
 
 
