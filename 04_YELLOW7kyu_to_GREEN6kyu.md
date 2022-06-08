@@ -38,7 +38,7 @@ Heian Sandan
 **Right leg**
 - Kumite 1:
   - Attack"
-     - step back with Right leg into Gedan Barai & say 'Jodan'
+     - step back with Right leg into Gedan Barai (with kiai!) & say 'Jodan'
      - then stepping forward Oi Tsuki Jodan (lunge punch high)
   - Defence:
      - stepping back with Right Left into Zenkutsu Dachi: Age Uke Jodan (high block) then Gyaku Tsuki
@@ -46,7 +46,7 @@ Heian Sandan
 
 - Kumite 2:
   - Attack:
-     - step back with Right leg into Gedan Barai & say 'Chudan'
+     - step back with Right leg into Gedan Barai (with kiai!) & say 'Chudan'
      - then step forward Oi Tsuki Chudan (lunge punch middle)
   - Defence:
      - stepping back with Right Left into Zenkutsu Dachi: Soto Uke (outside block) then Gyaku Tsuki
