@@ -36,6 +36,8 @@ Heian Yondan
 
 ## KUMITE (sparring)
 
+**Kihon ippon kumite**
+
 **Right leg**
 - Kumite 1:
   - Attack: Oi Tsuki Jodan (lunge punch high)
@@ -46,6 +48,7 @@ Heian Yondan
 - Kumite 3:
   - Attack: Mai Geri Chudan (front snap kick middle)
   - Defence: step to side with Gedan Barai (low block) then Gyaku Tsuki
+     - NOTE: quickly move left leg towards right, then step out with right leg into zen kutsudachi
 
 **Left leg**
 - Kumite 4:
