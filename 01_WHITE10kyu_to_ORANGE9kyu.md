@@ -53,3 +53,5 @@ Kihon Kata
   - after 3rd block, counter accack with Gyaku Tsuki (reverse punch) (with kiai!)
 
 
+**Gohon Kumite** (5-step sparring)
+- as above, but 5 steps instead of 3
