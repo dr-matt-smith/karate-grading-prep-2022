@@ -48,7 +48,7 @@ Heian Yondan
 - Kumite 3:
   - Attack: Mai Geri Chudan (front snap kick middle)
   - Defence: step to side with Gedan Barai (low block) then Gyaku Tsuki
-     - NOTE: quickly move left leg towards right, then step out with right leg into zen kutsudachi
+     - NOTE: quickly move left leg towards right, then step out with right leg into Zenkutsu Dachi
 
 **Left leg**
 - Kumite 4:
@@ -60,4 +60,6 @@ Heian Yondan
 - Kumite 6:
   - Attack: Mai Geri Chudan (front snap kick middle)
   - Defence: step to side with Gedan Barai (low block) then Gyaku Tsuki
+     - NOTE: quickly move right leg towards left, then step out with right leg into Zenkutsu Dachi
+
 
