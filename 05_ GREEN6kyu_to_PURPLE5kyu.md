@@ -12,11 +12,15 @@ Heian Yondan
 **Age Uke / Gyaku Tsuki / Gedan Barai (in Zenkutsu Dachi)**
 - rising block / reverse punch / low block (in front stance)
 
-**Soto Uke / (Yoko) Empi Uchi  / (Yoko) Uracken Uchi (in Zenkutsu Dachi)**
-- outside block / (back) elbow strike / (side) back fist (in front stance)
+**Soto Uke (in Zenkutsu Dachi) / (Yoko) Empi Uchi in Kiba Dachi) / (Yoko) Uracken Uchi**
+- outside block (in front stance) / (back) elbow strike (in horse riding stance) / (side) back fist 
 
 **Uchi Uke / Kizami Tsuki / Gedan Barai (in Zenkutsu Dachi)**
 - inside block / jabbing punch (same arm that just blocked) / low block (in front stance)
+
+**Shuto Uke (in Kokutso Dachi) / Nukite (in Zenkutsu Dachi)**
+- knife hand block (in back stance) / fingertip strike (moving front leg into front stance)
+
 
 **Yoko Geri Kekomi – from Zenkutsu Dachi**
 - side thrust kick
