@@ -16,6 +16,22 @@ Heian Shodan
 **Shuto Uke in Kukuso Dachi**
 - Knifehand block in back Stance
 
+**Yoko Geri Keage – from Kiba Dachi**
+- side snap kick
+  - (foot snaps out and back – hips/standing foot not move = speed)
+- from Kiba Dachi (horse-riding stance)
+  - stepping leg in front of leg about to kick
+- quick step & quick kick
+
+**Yoko Geri Kekomi – from Kiba Dachi**
+- side thrust kick
+  - (pivot foot on ground & thrust with hip = power)
+- from Kiba Dachi (horse-riding stance)
+  - stepping leg in front of leg about to kick
+- quick step & quick kick
+  - but hold out kick for a fraction of a second, before snapping back
+
+
 
 ## KUMITE (sparring)
 
