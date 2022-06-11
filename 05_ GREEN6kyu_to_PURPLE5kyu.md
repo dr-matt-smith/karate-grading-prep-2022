@@ -17,6 +17,7 @@ Heian Yondan
 
 **Uchi Uke / Kizami Tsuki / Gedan Barai (Zenkutsu Dachi)**
 - inside block / jabbing punch (same arm that just blocked) / low block (in front stance)
+- possible variation - inside block / reverse punch (Gyaku Tsuki) / low block (in front stance)
 
 **Shuto Uke (Kokutso Dachi) / Nukite (Zenkutsu Dachi)**
 - knife hand block (in back stance) / fingertip strike (moving front leg into front stance)
