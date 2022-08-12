@@ -26,65 +26,96 @@ Kumite
 The students perform in pairs. One student will execute a variety of predefined punches and kicks, which the other student must block and counter. At higher belts the attacks and counters are performed “free-style”
 
 Grading / Karate Belt Progression
-Current Belt	Kata	Kihon	Kumite
-White / Beginner	Kihon Kata	Oi tsuki
-Jodan age uke
-Chudan soto uke
-Mae geri	Sanbon or Gohon Kumite attacking with jodan oi tsuki and chudan oi tsuki
-Orange (9 Kyu)	Heian Shodan	As previous grading plus:
-Chudan uchi uke
-Shuto uke
-Yoko geri keage
-Yoko geri kekomi
-(same as previous grading)
 
-Red (8 Kyu)	Heian Nidan	As previous grading plus:
-Age uke, gyaku tsuki
-Soto uke, gyaku tsuki
-Uchi uke, gyaku tsuki	(same as previous grading)
+Current Belt	
 
-Yellow (7 Kyu)	Heian Sandan	As previous grading plus:
-Sanbon tsuki
-Soto uke, empi uchi	Kihon ippon kumite with jodan and chudan oi tsuki attacks from right and left sides
+White / Beginner	
+Kata:	Kihon Kata	
+Kihon:	Oi tsuki
+  Jodan age uke
+  Chudan soto uke
+  Mae geri	
+Kumite: Sanbon (3-step) or Gohon (5-step) Kumite attacking with jodan oi tsuki and chudan oi tsuki
 
-Green (6 Kyu)	Heian Yondan	As previous grading plus:
-Age uke, gyaku tsuki, gedan bari
-Soto uke, empi uchi, uraken
-Uchi uke, kizami tsuki, gyaku tsuki
-Shoto uke nukite	as previous grading plus:
+Orange (9 Kyu)	Heian Shodan	
+Kihon:	As previous grading plus:
+  Chudan uchi uke
+  Shuto uke
+  Yoko geri keage
+  Yoko geri kekomi
+Kumite: (same as previous grading)
+
+Red (8 Kyu)	
+Kata:	Heian Nidan	
+Kihon:	As previous grading plus:
+  Age uke, gyaku tsuki
+  Soto uke, gyaku tsuki
+  Uchi uke, gyaku tsuki	
+Kumite: (same as previous grading)
+
+Yellow (7 Kyu)	
+Kata:	Heian Sandan	
+Kihon:	As previous grading plus:
+  Sanbon tsuki
+  Soto uke, empi uchi	
+Kihon: ippon kumite with jodan and chudan oi tsuki attacks from right and left sides
+
+Green (6 Kyu)	
+Kata:	Heian Yondan	
+Kihon:	As previous grading plus:
+  Age uke, gyaku tsuki, gedan bari
+  Soto uke, empi uchi, uraken
+  Uchi uke, kizami tsuki, gyaku tsuki
+  Shoto uke nukite	
+Kumite: as previous grading plus:
 chudan mae geri attack
 
-Purple (5 Kyu)	Heian Godan	as previous grading plus:
-Soto uke, empi uchi, uraken, gyaku tsuki
-Shuto uke, mae geri, nukite
-Yoko geri kekomi (from zenkutsu dachi)
+Purple (5 Kyu)	
+Kata:	Heian Godan	
+Kihon:	As previous grading plus:
+  Soto uke, empi uchi, uraken, gyaku tsuki
+  Shuto uke, mae geri, nukite
+  Yoko geri kekomi (from zenkutsu dachi)
 Mawashi geri	as previous grading plus chudan yoko geri kekomi attack
 
-Purple/White (4 Kyu)	Tekki Shodan	as previous grading plus:
-Soto uke, empi uchi, uraken, gyaku tsuki, gedan barai
-Uchi uki, kizame tsuki, gyaku tsuki, gedan barai
-Ushiro geri	as previous grading plus:
-jodan mawashi geri attack
+Purple/White (4 Kyu)	
+Kata:	Tekki Shodan
+Kion: as previous grading plus:
+  Soto uke, empi uchi, uraken, gyaku tsuki, gedan barai
+  Uchi uki, kizame tsuki, gyaku tsuki, gedan barai
+  Ushiro geri	
+Kumite: as previous grading plus:
+  jodan mawashi geri attack
 
-Brown (3 Kyu)	Bassai Dai	as previous grading plus:
-Mae geri, oi tsuki, gyaku tsuki
-Yoko geri, uraken, gyaku tsuki
-Mawashi geri, uraken, gyaku tsuki
-Ushiro geri, uraken, gyaku tsuki	Jiyu ippon kumite attacking with jodan and chudan oi tsuki, chudan mae geri, chudan yoko geri, jodan mawashi geri and chudan ushiro geri . All attacks are with the right side only.
+Brown (3 Kyu)	
+Kata:	Bassai Dai	
+Kihon:	as previous grading plus:
+  Mae geri, oi tsuki, gyaku tsuki
+  Yoko geri, uraken, gyaku tsuki
+  Mawashi geri, uraken, gyaku tsuki
+  Ushiro geri, uraken, gyaku tsuki	
+Jiyu ippon kumite attacking with jodan and chudan oi tsuki, chudan mae geri, chudan yoko geri, jodan mawashi geri and chudan ushiro geri . All attacks are with the right side only.
 
-Brown/White (2 Kyu)	Bassai Dai	as previous grading plus:
+Brown/White (2 Kyu)	
+Kata:	Bassai Dai	
+Kihon:	as previous grading plus:
 Kizami tsuki, oi tsuki, gyaku tsuki
-Mae geri, yoko geri, mawashi geri, ushiro geri, uraken, gyaku tsuki	as previous grading
-Brown/Double White (1 Kyu)	Bassai Dai
+  Mae geri, yoko geri, mawashi geri, ushiro geri, uraken, gyaku tsuki	
+Kumite: as previous grading
+
+Brown/Double White (1 Kyu)	
+Kata:	Bassai Dai
 AND
-Any Heian Kata or Tekki Shodan	Kizame tsuki, oi tsuki, gyaku tsuki
-Mae geri, oi tsuki, gyaku tsuki
-Yoko geri, uraken, gyaku tsuki
-Mawashi geri, uraken, gyaku tsuki
-Ushiro geri, uraken, gyaku tsuki
-Mae geri, yoko geri, mawashi geri, ushiro geri, uraken, gyaku tsuki
-Mae geri, oi tsuki, gyaku tsuki, step back gedan barai, gyaku tsuki, yoko geri, uraken, oi tsuki
-Same leg mae geri, yoko geri, ushiro geri	Jiyu Ippon Kumite attacking with jodan and chudan oi tsuki, chudan mae geri, chudan yoko geri, jodan mawashi geri and chudan ushiro geri
+Any Heian Kata or Tekki Shodan	
+Kihon:	Kizame tsuki, oi tsuki, gyaku tsuki
+  Mae geri, oi tsuki, gyaku tsuki
+  Yoko geri, uraken, gyaku tsuki
+  Mawashi geri, uraken, gyaku tsuki
+  Ushiro geri, uraken, gyaku tsuki
+  Mae geri, yoko geri, mawashi geri, ushiro geri, uraken, gyaku tsuki
+  Mae geri, oi tsuki, gyaku tsuki, step back gedan barai, gyaku tsuki, yoko geri, uraken, oi tsuki
+  Same leg mae geri, yoko geri, ushiro geri	
+Jiyu Ippon Kumite attacking with jodan and chudan oi tsuki, chudan mae geri, chudan yoko geri, jodan mawashi geri and chudan ushiro geri
 Jiyu Kumite
 
 TIP for Beginners/White belts
