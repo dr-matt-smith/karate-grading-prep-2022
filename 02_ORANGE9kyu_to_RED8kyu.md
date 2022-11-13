@@ -6,6 +6,8 @@ everything from previous grades plus the following...
 ## KATA (patterns)
 
 Heian Shodan
+- [KUGB video of Heian Shodan](https://www.youtube.com/watch?v=u3-5kFQoGdM)
+
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
@@ -30,6 +32,7 @@ Heian Shodan
   - stepping leg in front of leg about to kick
 - quick step & quick kick
 
+- [video - side snap and thrust kicks](https://www.youtube.com/watch?v=g7KeizOx3Fo)
 
 
 ## KUMITE (sparring)

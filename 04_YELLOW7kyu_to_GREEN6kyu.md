@@ -6,6 +6,7 @@ everything from previous grades plus the following...
 ## KATA (patterns)
 
 Heian Sandan
+- [KUGB video of Heian Sandan](https://www.youtube.com/watch?v=TjxjtCkrnj8)
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 

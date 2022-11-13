@@ -6,6 +6,8 @@ everything from previous grades plus the following...
 ## KATA (patterns)
 
 Heian Godan
+- [KUGB video of Heian Godan](https://www.youtube.com/watch?v=LZwZTdpCM-U)
+
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
@@ -29,6 +31,8 @@ Heian Godan
 - Knifehand block (in back Stance) / Front snap kick / fingertip thrust (in front stance)
 
 **Mawashi Geri (roundhouse kick)** 
+
+- [roundhouse kick VIDEO](https://blackbeltwiki.com/roundhouse-kick)
 
 ## KUMITE (sparring)
 
