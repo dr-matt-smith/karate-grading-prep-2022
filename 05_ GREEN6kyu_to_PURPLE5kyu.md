@@ -9,17 +9,17 @@ Heian Yondan
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
-**Age Uke / Gyaku Tsuki / Gedan Barai (Zenkutsu Dachi)**
+**Age Uke / Gyaku Tsuki / Gedan Barai (in Zenkutsu Dachi)**
 - rising block / reverse punch / low block (in front stance)
 
-**Soto Uke (Zenkutsu Dachi) / (Yoko) Empi Uchi (Kiba Dachi) / (Yoko) Uracken Uchi**
-- outside block (in front stance) / (back) elbow strike (moving front leg into horse riding stance) / (side) back fist 
+**Soto Uke (in Zenkutsu Dachi) / (Yoko) Empi Uchi (moving front leg into Kiba Dachi) / (Yoko) Uracken Uchi (in Kiba Dachi)**
+- outside block (in front stance) / (back) elbow strike (moving front leg into horse riding stance) / (side) back fist (in horseriding stance)
 
-**Uchi Uke / Kizami Tsuki / Gedan Barai (Zenkutsu Dachi)**
+**Uchi Uke / Kizami Tsuki / Gedan Barai (in Zenkutsu Dachi)**
 - inside block / jabbing punch (same arm that just blocked) / low block (in front stance)
-- possible variation - inside block / reverse punch (Gyaku Tsuki) / low block (in front stance)
+  - possible variation - inside block / reverse punch (Gyaku Tsuki) / low block (in front stance)
 
-**Shuto Uke (Kokutso Dachi) / Nukite (Zenkutsu Dachi)**
+**Shuto Uke (in Kokutso Dachi) / Nukite (moving front leg into Zenkutsu Dachi)**
 - knife hand block (in back stance) / fingertip strike (moving front leg into front stance)
 
 
@@ -48,8 +48,8 @@ Heian Yondan
   - Defence: Soto Uke (outside block) then Gyaku Tsuki
 - Kumite 3:
   - Attack: Mai Geri Chudan (front snap kick middle)
-  - Defence: step to side with Gedan Barai (low block) then Gyaku Tsuki
-     - NOTE: quickly move left leg towards right, then step out with right leg into Zenkutsu Dachi
+  - Defence: step to inside of kick with Gedan Barai (low block) then Gyaku Tsuki
+    - so very quick left-foot-to-right, then stepping back with right leg into Zenkutsu Dachi
 
 **Left leg**
 - Kumite 4:
@@ -60,7 +60,7 @@ Heian Yondan
   - Defence: Soto Uke (outside block) then Gyaku Tsuki
 - Kumite 6:
   - Attack: Mai Geri Chudan (front snap kick middle)
-  - Defence: step to side with Gedan Barai (low block) then Gyaku Tsuki
-     - NOTE: quickly move right leg towards left, then step out with right leg into Zenkutsu Dachi
+  - Defence: step to inside of kick with Gedan Barai (low block) then Gyaku Tsuki
+    - so very quick right-foot-to-rileftght, then stepping back with left leg into Zenkutsu Dachi
 
 

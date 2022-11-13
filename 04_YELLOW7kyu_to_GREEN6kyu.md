@@ -28,12 +28,12 @@ Heian Sandan
   - then 2 quick punches
      - Chudan (middle) Gyaku Tsuki (reverse punch)
      - Chudan (middle) Oi Tsuki (lunge punch)
-  - timing is one-one-two (so a slight pause after first punch)
+  - timing is one--one-two (so a slight pause after first punch)
 
 ## KUMITE (sparring)
 
 **Kihon ippon kumite**
-- NOTE- this is different from earlier grades - after each technique the defender steps back into yoy (it is NOT a sequence of 3 steps forward/back etc.)
+NOTE- this is different from earlier grades - after each technique the defender steps back into Yoi (it is NOT a sequence of 3 steps forward/back etc.)
 
 **Right leg**
 - Kumite 1:

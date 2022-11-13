@@ -13,7 +13,7 @@ Heian Shodan
 - inside (forearm) block in front stance
   - Middle (Chudan)
 
-**Shuto Uke in Kukuso Dachi** 
+**Shuto Uke in Kokuso Dachi** 
 - Knifehand block in back Stance
 
 **Yoko Geri Keage – from Kiba Dachi** (pronounced "key - ag - eee")
