@@ -5,7 +5,7 @@
 ## KATA (patterns)
 
 Kihon Kata
-- [KUGB video of Kihon Kata](https://www.youtube.com/watch?v=fXRPBZ5E6rY
+- [KUGB video of Kihon Kata](https://www.youtube.com/watch?v=fXRPBZ5E6rY)
 
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
