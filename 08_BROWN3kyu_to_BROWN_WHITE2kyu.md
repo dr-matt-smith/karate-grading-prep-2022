@@ -22,12 +22,13 @@ Ushiro geri, uraken, gyaku tsuki
 ## KUMITE (sparring)
 
 
-**Jiyu ippon Kumite** attacking with:
+**Jiyu ippon Kumite** 
+- semi-free one-step sparring (snapping punches - from free style)
+
+Attacking (from right side only):
 - jodan  oi tsuki
 - chudan oi tsuki
 - chudan mae geri 
 - chudan yoko geri
 - jodan mawashi geri
 - chudan ushiro geri
-
-All attacks are with the right side only.

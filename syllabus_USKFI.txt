@@ -130,14 +130,11 @@ NB Candidate may be asked to perfom kicking techniques in combination
 -------  Dan Grading Syllabus
 All begin from free-style kamae
 
-List (a) - Candidate choses from
-List (b) - Examiner choses from
-
 All items listed
 
 1st Kyu to 1st Dan
-a) Bassai Dai
-b) Any Heian Kata or Tekki Shodan
+List (a) - Candidate choses from: a) Bassai Dai
+List (b) - Examiner choses from: b) Any Heian Kata or Tekki Shodan
 
 Jiyu Ippon Kumite attacking with jodan and chudan oi tsuki, chudan mae geri, chudan yoko geri, jodan mawashi geri and chudan ushiro geri
 
@@ -152,8 +149,8 @@ Jiyu Kumite
 8) Same leg mae geri, yoko geri, ushiro geri 
 
 1st Dan to 2nd Dan
-a) Bassai Sho, Kanku Sho, Niju Shiho, Tekki Nidan or Jitte.
-b) Bassai Dai, Kanku Dai, Enpi, Jion or Hangetsu.
+List (a) - Candidate choses from: a) Bassai Sho, Kanku Sho, Niju Shiho, Tekki Nidan or Jitte.
+List (b) - Examiner choses from: b) Bassai Dai, Kanku Dai, Enpi, Jion or Hangetsu.
 
 Jiyu Ippon Kumite  - attacking with any five single, unnaounced techniques
 
@@ -173,9 +170,9 @@ Jiyu Kumite
  
 2nd Dan to 3rd Dan
 
-a) Sochin, Unsu, Gankaku, Chinte or Gojushiho Sho.
+List (a) - Candidate choses from: a) Sochin, Unsu, Gankaku, Chinte or Gojushiho Sho.
 
-b) Bassai Sho, Kanku Sho, Nijushiho, Tekki Nidan or Jitte.
+List (b) - Examiner choses from: b) Bassai Sho, Kanku Sho, Nijushiho, Tekki Nidan or Jitte.
 
 Kaishi Ippon Kumite (Pre-arranged attacks as for 1st Dan grading)
 
@@ -189,7 +186,7 @@ Kizame tsuki, gyaku tsuki, mawashi geri, uraken, gyaku tsuki, step back gedan ba
  
 
 3rd Dan to 4th Dan
-a) Meikyo, Jiin, Wankan, Tekki Sandan or Goju Shiho Dai
+List (a) - Candidate choses from: a) Meikyo, Jiin, Wankan, Tekki Sandan or Goju Shiho Dai
 b) Sochin, Unsu, Gankaku, Chinte or Goju Shiho Sho.
 
 Kaishi Ippon Kumite - attacking with any five, single, unnanounced techniques.
@@ -204,7 +201,7 @@ step back and with same arm block age uke, soto uke, gedan barai and uchi uke, k
 turn behind with haito uchi, mawashi geri, uraken, gyaku tsuki, back leg mae geri and step back, yoko geri keage to side and step back, mawashi geri, ushiro geri, uraken, gyaku tsuki.
  
 4th Dan to 5th Dan
-a) Any Kata from Shodan syllabus and above
+List (a) - Candidate choses from: a) Any Kata from Shodan syllabus and above
 b) One or more Kata from Shodan syllabus and above.
 
 Demonstration and applications will be requested from performed katas

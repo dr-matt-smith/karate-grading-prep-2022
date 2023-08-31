@@ -11,15 +11,23 @@ Tekki Shodan
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
+**New for this grade**
+- Soto uke, empi uchi (Kiba Dachi), uraken, gyaku tsuki, gedan barai
+- Uchi uke, kizami tsuki, gyaku tsuki, gedan barai 
+- Ushiro Geri (back kick)
 
-Soto uke, empi uchi, uraken, gyaku tsuki, gedan barai
-
-Uchi uke, kizami tsuki, gyaku tsuki, gedan barai
-
-Ushiro Geri (back kick)
-- [Ushiro Geri video](https://blackbeltwiki.com/ushiro-geri)
+like asks from previous grades:
+- **Sanbon tsuki** - one step, 3 punches - Jodan - Chudan - Chudan (timing: one - one-two)
+- **Age Uke / Gyaku Tsuki / Gedan Barai (in Zenkutsu Dachi)**
+- **Yoko Geri Kekomi – from Zenkutsu Dachi**
+- **Shuto Uke (in Kukuso Dachi) / Mae Geri / Nukite (in Zenkutsu Dachi)**
+- **Mawashi Geri (roundhouse kick)**
+- 2-kick combination: **Mai Geri Chudan** then immediately step and **Mai Geri Jodan**
 
 ## KUMITE (sparring)
+
+**Kihon ippon kumite**
+- basic one-step sparring (leave punches out -no snap)
 
 As previous grading, plus Jodan Mawashi Geri attack - so both left and right sides, leave punches out (no snap):
 - Attack: Oi Tsuki Jodan (lunge punch - high)
