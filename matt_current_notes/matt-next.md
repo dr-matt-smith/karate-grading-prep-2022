@@ -5,33 +5,36 @@ everything from previous grades plus the following...
 
 ## KATA (patterns)
 
-Tekki Shodan
-- [KUGB video of Tekki Shodan ](https://www.youtube.com/watch?v=LH50-RL_UvU)
+Bassai Dai + any Heian kata
+- [KUGB video of Bassai Dai  ](https://www.youtube.com/watch?v=eL99DjuZDcU&feature=youtu.be)
 
 
 ## KIHON (fundamentals) – all the following forwards and backwards and after turning
 
-**New for this grade**
-- Soto uke, empi uchi (Kiba Dachi), uraken, gyaku tsuki, gedan barai
-- Uchi uke, kizami tsuki, gyaku tsuki, gedan barai 
-- Ushiro Geri (back kick)
 
-like asks from previous grades:
-- **Sanbon tsuki** - one step, 3 punches - Jodan - Chudan - Chudan (timing: one - one-two)
-- **Age Uke / Gyaku Tsuki / Gedan Barai (in Zenkutsu Dachi)**
-- **Yoko Geri Kekomi – from Zenkutsu Dachi**
-- **Shuto Uke (in Kukuso Dachi) / Mae Geri / Nukite (in Zenkutsu Dachi)**
-- **Mawashi Geri (roundhouse kick)**
-- 2-kick combination: **Mai Geri Chudan** then immediately step and **Mai Geri Jodan**
+**New for this grade**
+- Mae geri, oi tsuki, gyaku tsuki
+- Yoko geri Kekomi, uraken, gyaku tsuki
+- Mawashi geri, uraken, gyaku tsuki
+- Ushiro geri, uraken, gyaku tsuki
+
+May be asked (from free style):
+- kizami tsuki, then step and then double punch
+- step Mae geri, then double punch on land
+- Mae geri, Yoko geri Kekomi, Mawashi geri,Ushiro geri, uraken, gyaku tsuki
+
 
 ## KUMITE (sparring)
 
-**Kihon ippon kumite**
-- basic one-step sparring (leave punches out -no snap)
+**Jiyu ippon Kumite**
+- semi-free one-step sparring (snapping punches - from free style)
 
-As previous grading, plus Jodan Mawashi Geri attack - so both left and right sides, leave punches out (no snap):
-- Attack: Oi Tsuki Jodan (lunge punch - high)
-- Attack: Oi Tsuki Chudan (lunge punch - middle)
-- Attack: Mai Geri Chudan (front snap kick - middle)
-- Attack: Yoko Geri Kekomi (side thrust kick)
-- Attack:  Mawashi Geri Jodan (turning/roundhouse kick - high)
+Attacking (from right side only):
+- jodan  oi tsuki
+- chudan oi tsuki
+- chudan mae geri
+- chudan yoko geri
+- jodan mawashi geri
+- chudan ushiro geri
+
+- speed - attack and defence - kiai

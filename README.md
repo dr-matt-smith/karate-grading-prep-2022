@@ -28,13 +28,16 @@ Here are what I think are the 10 most useful karate terms to know when starting 
   - (yoy – where the ‘oy’ is as in ‘boy’)
 
 - **Hajime** - start
-  - (ha-jimmy)
+  - (ha-jimmy - might be shorted/abbreviated to something like 'joo-may')
 
 - **Mawate** - turn
-  - (ma-what-ay)
+  - (ma-what-ay - might be shorted/abbreviated to something like 'what-ay'))
 
 - **Yame** - stop/finish/step back into yoi
   - (yam-ay)
+
+- **Inori** - relax (bow then feet apart, hands by side)
+  - (in-or-ee)
 
 - **Dojo** - training hall
   - (doe-joe)

@@ -5,7 +5,7 @@ everything from previous grades plus the following...
 
 ## KATA (patterns)
 
-Bassai Dai
+Bassai Dai + any Heian kata
 - [KUGB video of Bassai Dai  ](https://www.youtube.com/watch?v=eL99DjuZDcU&feature=youtu.be)
 
 
