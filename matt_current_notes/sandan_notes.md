@@ -1,4 +1,4 @@
-# Notes when perofrming Heian Sandan (3)
+# Notes when performing Heian Sandan (3)
 
 - first 4/6 moves - should height (not higher!)
 - careful with right fist to support elbow for double block - move 7/9
